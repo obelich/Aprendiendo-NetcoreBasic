@@ -1,0 +1,11 @@
+/home/obelich/Git/Aprendiendo-NetcoreBasic/bin/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.deps.json
+/home/obelich/Git/Aprendiendo-NetcoreBasic/bin/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.runtimeconfig.json
+/home/obelich/Git/Aprendiendo-NetcoreBasic/bin/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.runtimeconfig.dev.json
+/home/obelich/Git/Aprendiendo-NetcoreBasic/bin/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.dll
+/home/obelich/Git/Aprendiendo-NetcoreBasic/bin/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.pdb
+/home/obelich/Git/Aprendiendo-NetcoreBasic/obj/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.csprojAssemblyReference.cache
+/home/obelich/Git/Aprendiendo-NetcoreBasic/obj/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.csproj.CoreCompileInputs.cache
+/home/obelich/Git/Aprendiendo-NetcoreBasic/obj/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.AssemblyInfoInputs.cache
+/home/obelich/Git/Aprendiendo-NetcoreBasic/obj/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.AssemblyInfo.cs
+/home/obelich/Git/Aprendiendo-NetcoreBasic/obj/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.dll
+/home/obelich/Git/Aprendiendo-NetcoreBasic/obj/Debug/netcoreapp2.2/Aprendiendo-NetcoreBasic.pdb

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/obelich/Git/Aprendiendo-NetcoreBasic/Aprendiendo-NetcoreBasic.csproj": {}
+  },
+  "projects": {
+    "/home/obelich/Git/Aprendiendo-NetcoreBasic/Aprendiendo-NetcoreBasic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/obelich/Git/Aprendiendo-NetcoreBasic/Aprendiendo-NetcoreBasic.csproj",
+        "projectName": "Aprendiendo-NetcoreBasic",
+        "projectPath": "/home/obelich/Git/Aprendiendo-NetcoreBasic/Aprendiendo-NetcoreBasic.csproj",
+        "packagesPath": "/home/obelich/.nuget/packages/",
+        "outputPath": "/home/obelich/Git/Aprendiendo-NetcoreBasic/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/obelich/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
