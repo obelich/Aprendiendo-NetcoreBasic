@@ -6,7 +6,9 @@ namespace Aprendiendo_NetcoreBasic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Mi hola mundo");
+
+            Console.ReadLine();
         }
     }
 }
